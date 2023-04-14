@@ -1,0 +1,17 @@
+{
+  "name": "auto-upload",
+  "version": "1.0.0",
+  "description": "用于自动上传到体验版或其他版本",
+  "main": "./index.mjs",
+  "scripts": {
+    "start": "node ./index.mjs"
+  },
+  "keywords": [],
+  "author": "MEI 1596944197@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "miniprogram-ci": "^1.9.5",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,3 @@
+PRIVATE_KEY_PATH=./private.xxxxxxxxxxxxx.key
+APPID=
+PROJECT_PATH='../dist/build/mp-weixin'
